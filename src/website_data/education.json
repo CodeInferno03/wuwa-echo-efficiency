@@ -1,0 +1,29 @@
+[
+  {
+    "school": "University of California, Santa Cruz",
+    "start_year": "2021",
+    "end_year": "2025",
+    "subdata": {
+      "type": "university",
+      "c;asses": ["Computer Science"],
+      "affiliation": "Jack Baskin School of Engineering"
+    }
+  },
+  {
+    "school": "Hill Spring International School",
+    "start_year": "2019",
+    "end_year": "2021",
+    "subdata": {
+      "type": "high school",
+      "classes": [
+        "English Literature SL",
+        "Psychology HL",
+        "Chemistry HL",
+        "Global Politics HL",
+        "Spanish ab initio SL",
+        "Mathematics Analysis and Approaches SL"
+      ],
+      "affiliation": null
+    }
+  }
+]

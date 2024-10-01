@@ -1,2 +1,2 @@
-# ishaan-singh-website
+# ISHAAN SINGH WEBSITE
 My personal website!

@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "UrbanPiper",
+    "about_company": null,
+    "start_date": "07/23",
+    "end_date": "08/23",
+    "position": "QA Intern",
+    "completion_letter": null,
+    "tasks": [
+      "Developed a testing framework for internal REST APIs using Postman",
+      "Collaborated with cross-functional teams to deliver high-quality products",
+      "Implemented and maintained a pre-existing testing framework to production data"
+    ],
+    "company_location": "Bangalore, Karnataka, India"
+  },
+  {
+    "company_name": "Kiwi",
+    "about_company": null,
+    "start_date": "07/24",
+    "end_date": "09/24",
+    "position": "Intern",
+    "completion_letter": null,
+    "tasks": [
+      "Developed a data extractor for my company to process credit card statements from a partner bank.",
+      "Revamped multiple sections of the company website using Angular, incorporating new features like API integration and drag-and-drop functionality to enhance team usability",
+      "Conducted live, hands-on testing of the company's app on Android and iOS, and created an automated testing suite."
+    ],
+    "company_location": "Bangalore, Karnataka, India"
+  }
+]
