@@ -11,5 +11,11 @@
     "links": {
         "linkedin": "https://www.linkedin.com/in/ishaan-singh-ucsc",
         "github": "https://github.com/CodeInferno03"
+    },
+    "skills": {
+        "programming_languages": ["Python", "PostgreSQL", "C", "JavaScript/TypeScript", "Haskell"],
+        "technologies": ["Docker", "Postman", "AWS", "Git", "MongoDB"],
+        "frameworks": ["React", "Angular", "Flask", "Karate Framework"],
+        "concepts": ["Distributed Systems", "Full Stack Web Development", "Single Page Applications"]
     }
 }
