@@ -1,5 +1,5 @@
-import * as React from "react";
-import NavigateToPage from "../../utils/navigationHandler";
+// import * as React from "react";
+// import NavigateToPage from "../../utils/navigationHandler";
 import { Navigate } from "react-router-dom";
 
 const RedirectToAboutMe = () => {

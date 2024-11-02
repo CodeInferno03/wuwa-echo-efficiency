@@ -1,162 +1,162 @@
 [
   {
-    "course_number": "CSE 20",
-    "course_name": "Beginning Programming in Python",
-    "course_taken_quarter": "Fall",
-    "course_taken_year": "2021",
-    "course_description": "Provides students with Python programming skills and the ability to design programs and read Python code. Topics include data types, control flow, methods and advanced functions, built-in data structures, and introduction to OOP.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-20/"
+    "courseNumber": "CSE 20",
+    "courseName": "Beginning Programming in Python",
+    "courseTakenQuarter": "Fall",
+    "courseTakenYear": "2021",
+    "courseDescription": "Provides students with Python programming skills and the ability to design programs and read Python code. Topics include data types, control flow, methods and advanced functions, built-in data structures, and introduction to OOP.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-20/"
   },
   {
-    "course_number": "CSE 30",
-    "course_name": "Programming Abstractions: Python",
-    "course_taken_quarter": "Spring",
-    "course_taken_year": "2022",
-    "course_description": "Introduction to software development in Python focusing on structuring software in terms of objects endowed with primitive operations. Introduces concepts and techniques via a sequence of concrete case studies.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-30/"
+    "courseNumber": "CSE 30",
+    "courseName": "Programming Abstractions: Python",
+    "courseTakenQuarter": "Spring",
+    "courseTakenYear": "2022",
+    "courseDescription": "Introduction to software development in Python focusing on structuring software in terms of objects endowed with primitive operations. Introduces concepts and techniques via a sequence of concrete case studies.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-30/"
   },
   {
-    "course_number": "CSE 12",
-    "course_name": "Computer Systems and Assembly Language and Lab",
-    "course_taken_quarter": "Winter",
-    "course_taken_year": "2022",
-    "course_description": "ntroduction to computer systems and assembly language and how computers compute in hardware and software. Topics include digital logic, number systems, data structures, compiling/assembly process, basics of the system software, and computer architecture.",
-    "course_link": "https://catalog.ucsc.edu/en/2021-2022/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-12/"
+    "courseNumber": "CSE 12",
+    "courseName": "Computer Systems and Assembly Language and Lab",
+    "courseTakenQuarter": "Winter",
+    "courseTakenYear": "2022",
+    "courseDescription": "Introduction to computer systems and assembly language and how computers compute in hardware and software. Topics include digital logic, number systems, data structures, compiling/assembly process, basics of the system software, and computer architecture.",
+    "courseLink": "https://catalog.ucsc.edu/en/2021-2022/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-12/"
   },
   {
-    "course_number": "CSE 16",
-    "course_name": "Applied Discrete Mathematics",
-    "course_taken_quarter": "Winter",
-    "course_taken_year": "2022",
-    "course_description": "Introduction to applications of discrete mathematical systems. Topics include sets, functions, relations, graphs, predicate calculus, mathematical proof methods (induction, contraposition, contradiction), counting methods (permutations, combinations), and recurrences.",
-    "course_link": "https://catalog.ucsc.edu/en/2023-2024/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-16/"
+    "courseNumber": "CSE 16",
+    "courseName": "Applied Discrete Mathematics",
+    "courseTakenQuarter": "Winter",
+    "courseTakenYear": "2022",
+    "courseDescription": "Introduction to applications of discrete mathematical systems. Topics include sets, functions, relations, graphs, predicate calculus, mathematical proof methods (induction, contraposition, contradiction), counting methods (permutations, combinations), and recurrences.",
+    "courseLink": "https://catalog.ucsc.edu/en/2023-2024/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-16/"
   },
   {
-    "course_number": "MATH 19A",
-    "course_name": "Calculus for Science, Engineering, and Mathematics",
-    "course_taken_quarter": "Fall",
-    "course_taken_year": "2021",
-    "course_description": "The limit of a function, calculating limits, continuity, tangents, velocities, and other instantaneous rates of change. Derivatives, the chain rule, implicit differentiation, higher derivatives. Exponential functions, inverse functions, and their derivatives. The mean value theorem, monotonic functions, concavity, and points of inflection.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/math-mathematics/lower-division/math-19a/"
+    "courseNumber": "MATH 19A",
+    "courseName": "Calculus for Science, Engineering, and Mathematics",
+    "courseTakenQuarter": "Fall",
+    "courseTakenYear": "2021",
+    "courseDescription": "The limit of a function, calculating limits, continuity, tangents, velocities, and other instantaneous rates of change. Derivatives, the chain rule, implicit differentiation, higher derivatives. Exponential functions, inverse functions, and their derivatives. The mean value theorem, monotonic functions, concavity, and points of inflection.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/math-mathematics/lower-division/math-19a/"
   },
   {
-    "course_number": "CSE 13S",
-    "course_name": "Computer Systems and C Programming",
-    "course_taken_quarter": "Spring",
-    "course_taken_year": "2022",
-    "course_description": "Focuses on C programming, command line, shell programming, editors, debuggers, source code control, and other tools. Examines basic computer systems, algorithm design, and development, data types, and program structures. Develops understanding of process model, compile-link-execute build cycle, language-machine interface, memory, and data representation.",
-    "course_link": "https://catalog.ucsc.edu/2021-2022/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-13s/"
+    "courseNumber": "CSE 13S",
+    "courseName": "Computer Systems and C Programming",
+    "courseTakenQuarter": "Spring",
+    "courseTakenYear": "2022",
+    "courseDescription": "Focuses on C programming, command line, shell programming, editors, debuggers, source code control, and other tools. Examines basic computer systems, algorithm design, and development, data types, and program structures. Develops understanding of process model, compile-link-execute build cycle, language-machine interface, memory, and data representation.",
+    "courseLink": "https://catalog.ucsc.edu/2021-2022/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-13s/"
   },
   {
-    "course_number": "MATH 19B",
-    "course_name": "Calculus for Science, Engineering, and Mathematics",
-    "course_taken_quarter": "Summer",
-    "course_taken_year": "2022",
-    "course_description": "The definite integral and the fundamental theorem of calculus. Areas, volumes. Integration by parts, trigonometric substitution, and partial fractions methods. Improper integrals. Sequences, series, absolute convergence and convergence tests. Power series, Taylor and Maclaurin series.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/math-mathematics/lower-division/math-19b/"
+    "courseNumber": "MATH 19B",
+    "courseName": "Calculus for Science, Engineering, and Mathematics",
+    "courseTakenQuarter": "Summer",
+    "courseTakenYear": "2022",
+    "courseDescription": "The definite integral and the fundamental theorem of calculus. Areas, volumes. Integration by parts, trigonometric substitution, and partial fractions methods. Improper integrals. Sequences, series, absolute convergence and convergence tests. Power series, Taylor and Maclaurin series.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/math-mathematics/lower-division/math-19b/"
   },
   {
-    "course_number": "CSE 101",
-    "course_name": "Introduction to Data Structures and Algorithms",
-    "course_taken_quarter": "Fall",
-    "course_taken_year": "2022",
-    "course_description": "Introduction to abstract data types and basics of algorithms. Linked lists, stacks, queues, hash tables, trees, heaps, and graphs.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-101/"
+    "courseNumber": "CSE 101",
+    "courseName": "Introduction to Data Structures and Algorithms",
+    "courseTakenQuarter": "Fall",
+    "courseTakenYear": "2022",
+    "courseDescription": "Introduction to abstract data types and basics of algorithms. Linked lists, stacks, queues, hash tables, trees, heaps, and graphs.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-101/"
   },
   {
-    "course_number": "CSE 120",
-    "course_name": "Computer Architecture",
-    "course_taken_quarter": "Fall",
-    "course_taken_year": "2022",
-    "course_description": "Introduction to computer architecture including examples of current approaches and the effect of technology and software. Computer performance evaluation, basic combinatorial and sequential digital components, different instruction set architectures with a focus on the MIPS ISA and RISC paradigm. Evolution of CPU microarchitecture from single-cycle to multi-cycle pipelines, with overview of super-scalar, multiple-issue and VLIW. Memory system, cache, virtual memory and relationship between memory and performance. Evolution of PC system architecture.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-120/"
+    "courseNumber": "CSE 120",
+    "courseName": "Computer Architecture",
+    "courseTakenQuarter": "Fall",
+    "courseTakenYear": "2022",
+    "courseDescription": "Introduction to computer architecture including examples of current approaches and the effect of technology and software. Computer performance evaluation, basic combinatorial and sequential digital components, different instruction set architectures with a focus on the MIPS ISA and RISC paradigm. Evolution of CPU microarchitecture from single-cycle to multi-cycle pipelines, with overview of super-scalar, multiple-issue and VLIW. Memory system, cache, virtual memory and relationship between memory and performance. Evolution of PC system architecture.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-120/"
   },
   {
-    "course_number": "ECE 30",
-    "course_name": "Engineering Principles of Electronics",
-    "course_taken_quarter": "Winter",
-    "course_taken_year": "2023",
-    "course_description": "Aims at deriving basic engineering principles directly from examples relevant to computing and electronics: 1) Newton's Laws and related fundamental mechanics; 2) basic thermodynamics and heat/energy transfer; 3) key electromagnetic principles, including Coulomb's Law, Gauss's Law, and basic circuit analysis using Kirchoff's Laws/Rules; and 4) Ray optics for fiber optic communications and camera electronics.",
-    "course_link": "https://catalog.ucsc.edu/en/2023-2024/general-catalog/courses/ece-electrical-and-computer-engineering/lower-division/ece-30/"
+    "courseNumber": "ECE 30",
+    "courseName": "Engineering Principles of Electronics",
+    "courseTakenQuarter": "Winter",
+    "courseTakenYear": "2023",
+    "courseDescription": "Aims at deriving basic engineering principles directly from examples relevant to computing and electronics: 1) Newton's Laws and related fundamental mechanics; 2) basic thermodynamics and heat/energy transfer; 3) key electromagnetic principles, including Coulomb's Law, Gauss's Law, and basic circuit analysis using Kirchoff's Laws/Rules; and 4) Ray optics for fiber optic communications and camera electronics.",
+    "courseLink": "https://catalog.ucsc.edu/en/2023-2024/general-catalog/courses/ece-electrical-and-computer-engineering/lower-division/ece-30/"
   },
   {
-    "course_number": "MATH 21",
-    "course_name": "Linear Algebra",
-    "course_taken_quarter": "Summer",
-    "course_taken_year": "2022",
-    "course_description": "Systems of linear equations matrices, determinants. Introduces abstract vector spaces, linear transformation, inner products, the geometry of Euclidean space, and eigenvalues.",
-    "course_link": "https://catalog.ucsc.edu/en/2020-2021/general-catalog/courses/math-mathematics/lower-division/math-21/"
+    "courseNumber": "MATH 21",
+    "courseName": "Linear Algebra",
+    "courseTakenQuarter": "Summer",
+    "courseTakenYear": "2022",
+    "courseDescription": "Systems of linear equations matrices, determinants. Introduces abstract vector spaces, linear transformation, inner products, the geometry of Euclidean space, and eigenvalues.",
+    "courseLink": "https://catalog.ucsc.edu/en/2020-2021/general-catalog/courses/math-mathematics/lower-division/math-21/"
   },
   {
-    "course_number": "MATH 23A",
-    "course_name": "Vector Calculus",
-    "course_taken_quarter": "Winter",
-    "course_taken_year": "2023",
-    "course_description": "Vectors in n-dimensional Euclidean space. The inner and cross products. The derivative of functions from n-dimensional to m-dimensional Euclidean space is studied as a linear transformation having matrix representation. Paths in 3-dimensions, arc length, vector differential calculus, Taylor's theorem in several variables, extrema of real-valued functions, constrained extrema and Lagrange multipliers, the implicit function theorem, some applications.",
-    "course_link": "https://catalog-dev.ucsc.edu/en/2021-2022/general-catalog/courses/math-mathematics/lower-division/math-23a/"
+    "courseNumber": "MATH 23A",
+    "courseName": "Vector Calculus",
+    "courseTakenQuarter": "Winter",
+    "courseTakenYear": "2023",
+    "courseDescription": "Vectors in n-dimensional Euclidean space. The inner and cross products. The derivative of functions from n-dimensional to m-dimensional Euclidean space is studied as a linear transformation having matrix representation. Paths in 3-dimensions, arc length, vector differential calculus, Taylor's theorem in several variables, extrema of real-valued functions, constrained extrema and Lagrange multipliers, the implicit function theorem, some applications.",
+    "courseLink": "https://catalog-dev.ucsc.edu/en/2021-2022/general-catalog/courses/math-mathematics/lower-division/math-23a/"
   },
   {
-    "course_number": "CSE 130",
-    "course_name": "Principles of Computer Systems Design",
-    "course_taken_quarter": "Spring",
-    "course_taken_year": "2023",
-    "course_description": "Covers the principles governing computer-systems design and complexity; familiarity with memory, storage, and networking; concurrency and synchronization; layering (abstraction and modularity); naming; client-server and virtualized system models; and performance.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-130/"
+    "courseNumber": "CSE 130",
+    "courseName": "Principles of Computer Systems Design",
+    "courseTakenQuarter": "Spring",
+    "courseTakenYear": "2023",
+    "courseDescription": "Covers the principles governing computer-systems design and complexity; familiarity with memory, storage, and networking; concurrency and synchronization; layering (abstraction and modularity); naming; client-server and virtualized system models; and performance.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-130/"
   },
   {
-    "course_number": "CSE 138",
-    "course_name": "Distributed Systems",
-    "course_taken_quarter": "Fall",
-    "course_taken_year": "2023",
-    "course_description": "Covers topics in distributed computing including communication, naming, synchronization, consistency and replication, fault tolerance, and security. Examples drawn from peer-to-peer systems, online gaming, the World Wide Web; other systems also used to illustrate approaches to these topics.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-138/"
+    "courseNumber": "CSE 138",
+    "courseName": "Distributed Systems",
+    "courseTakenQuarter": "Fall",
+    "courseTakenYear": "2023",
+    "courseDescription": "Covers topics in distributed computing including communication, naming, synchronization, consistency and replication, fault tolerance, and security. Examples drawn from peer-to-peer systems, online gaming, the World Wide Web; other systems also used to illustrate approaches to these topics.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-138/"
   },
   {
-    "course_number": "CSE 115A",
-    "course_name": "Introduction to Software Engineering",
-    "course_taken_quarter": "Fall",
-    "course_taken_year": "2023",
-    "course_description": "Emphasizes the characteristics of well-engineered software systems. Topics include requirements analysis and specification, design, programming, verification and validation, maintenance, and project management. Practical and research methods are studied. Imparts an understanding of the steps used to effectively develop computer software.",
-    "course_link": "https://ucsc.smartcatalogiq.com/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-115a/"
+    "courseNumber": "CSE 115A",
+    "courseName": "Introduction to Software Engineering",
+    "courseTakenQuarter": "Fall",
+    "courseTakenYear": "2023",
+    "courseDescription": "Emphasizes the characteristics of well-engineered software systems. Topics include requirements analysis and specification, design, programming, verification and validation, maintenance, and project management. Practical and research methods are studied. Imparts an understanding of the steps used to effectively develop computer software.",
+    "courseLink": "https://ucsc.smartcatalogiq.com/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-115a/"
   },
   {
-    "course_number": "CSE 102",
-    "course_name": "Introduction to Analysis of Algorithms",
-    "course_taken_quarter": "Winter",
-    "course_taken_year": "2024",
-    "course_description": "Methods for the systematic construction and mathematical analysis of algorithms. Order notation, the RAM model of computation, lower bounds, and recurrence relations are covered. The algorithm design techniques include divide-and-conquer, branch and bound, and dynamic programming. Applications to combinatorial, graph, string, and geometric algorithms.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-102/"
+    "courseNumber": "CSE 102",
+    "courseName": "Introduction to Analysis of Algorithms",
+    "courseTakenQuarter": "Winter",
+    "courseTakenYear": "2024",
+    "courseDescription": "Methods for the systematic construction and mathematical analysis of algorithms. Order notation, the RAM model of computation, lower bounds, and recurrence relations are covered. The algorithm design techniques include divide-and-conquer, branch and bound, and dynamic programming. Applications to combinatorial, graph, string, and geometric algorithms.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-102/"
   },
   {
-    "course_number": "CSE 180",
-    "course_name": "Database Systems 1",
-    "course_taken_quarter": "Winter",
-    "course_taken_year": "2024",
-    "course_description": "Introduction to the concepts, approaches, tools, and methodology of database design. Covers the entity-relationship model, the relational model, relational algebra, relational calculus, commercial languages (such as SQL and QBE), functional dependencies, normal forms, and design theory. Other topics may include knowledge-bases, constraint databases, and alternative database models.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-180/"
+    "courseNumber": "CSE 180",
+    "courseName": "Database Systems 1",
+    "courseTakenQuarter": "Winter",
+    "courseTakenYear": "2024",
+    "courseDescription": "Introduction to the concepts, approaches, tools, and methodology of database design. Covers the entity-relationship model, the relational model, relational algebra, relational calculus, commercial languages (such as SQL and QBE), functional dependencies, normal forms, and design theory. Other topics may include knowledge-bases, constraint databases, and alternative database models.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-180/"
   },
   {
-    "course_number": "CSE 186",
-    "course_name": "Full Stack Web Development 1",
-    "course_taken_quarter": "Winter",
-    "course_taken_year": "2024",
-    "course_description": "Examines current uses of the World Wide Web for delivery of the sophisticated interactive applications used daily. Web applications offer several advantages over traditional, locally installable binaries including heterogeneous deployment, instantaneous access, continuous updates, and the possibility of collaboration at scale. It is important to know that I took this course as an auditor, which means I did not receive credit for it",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-186/"
+    "courseNumber": "CSE 186",
+    "courseName": "Full Stack Web Development 1",
+    "courseTakenQuarter": "Winter",
+    "courseTakenYear": "2024",
+    "courseDescription": "Examines current uses of the World Wide Web for delivery of the sophisticated interactive applications used daily. Web applications offer several advantages over traditional, locally installable binaries including heterogeneous deployment, instantaneous access, continuous updates, and the possibility of collaboration at scale. It is important to know that I took this course as an auditor, which means I did not receive credit for it",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-186/"
   },
   {
-    "course_number": "CSE 114A",
-    "course_name": "Foundations of Programming Languages",
-    "course_taken_quarter": "Spring",
-    "course_taken_year": "2024",
-    "course_description": "Problem solving emphasizing recursion, data abstraction, and higher-order functions. Introduction to types and type checking, modular programming, and reasoning about program correctness.",
-    "course_link": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-114a/"
+    "courseNumber": "CSE 114A",
+    "courseName": "Foundations of Programming Languages",
+    "courseTakenQuarter": "Spring",
+    "courseTakenYear": "2024",
+    "courseDescription": "Problem solving emphasizing recursion, data abstraction, and higher-order functions. Introduction to types and type checking, modular programming, and reasoning about program correctness.",
+    "courseLink": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-114a/"
   },
   {
-    "course_number": "CSE 80N",
-    "course_name": "Introduction to Networking and the Internet",
-    "course_taken_quarter": "Spring",
-    "course_taken_year": "2024",
-    "course_description": "Introduction to the evolution, technological basis, and services of the Internet, with descriptions of its underlying communications structure, routing algorithms, peer-to-peer hierarchy, reliability, and packet switching. Network security, mail, multimedia and data compression issues, HTML, and digital images.",
-    "course_link": "https://catalog.ucsc.edu/en/2023-2024/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-80n/"
+    "courseNumber": "CSE 80N",
+    "courseName": "Introduction to Networking and the Internet",
+    "courseTakenQuarter": "Spring",
+    "courseTakenYear": "2024",
+    "courseDescription": "Introduction to the evolution, technological basis, and services of the Internet, with descriptions of its underlying communications structure, routing algorithms, peer-to-peer hierarchy, reliability, and packet switching. Network security, mail, multimedia and data compression issues, HTML, and digital images.",
+    "courseLink": "https://catalog.ucsc.edu/en/2023-2024/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-80n/"
   }
 ]

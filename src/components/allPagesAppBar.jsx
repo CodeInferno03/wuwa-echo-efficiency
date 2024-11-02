@@ -3,11 +3,11 @@ import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
-import colors from "../../utils/websiteColors";
+import colors from "../utils/websiteColors";
 
-import aboutMeData from "../../website_data/about_me.json";
+import aboutMeData from "../website_data/about_me.json";
 
-function AboutMePageAppBar() {
+function GeneralAppBar() {
   const fullUserName = `${aboutMeData.first_name} ${aboutMeData.last_name}'s`;
 
   return (
@@ -25,22 +25,17 @@ function AboutMePageAppBar() {
         }}
       >
         <Toolbar>
-          {/* <IconButton
-            size="large"
-            edge="start"
-            color="inherit"
-            aria-label="menu"
-            sx={{ mr: 2 }}
-          >
-            <MenuIcon />
-          </IconButton> */}
-          <Typography variant="h4" component="div" sx={{ flexGrow: 1, color: colors.appbarText, fontWeight: 700 }}>
-            {fullUserName} Personal Website
-          </Typography>
-          <div className="ishaan-details">
-            <Typography>
-
+          <div>
+            <Typography
+              variant="h4"
+              component="div"
+              sx={{ flexGrow: 1, color: colors.appbarText, fontWeight: 700 }}
+            >
+              {fullUserName} Personal Website
             </Typography>
+          </div>
+          <div className="ishaan-details">
+            <Typography></Typography>
           </div>
         </Toolbar>
       </AppBar>
@@ -48,4 +43,4 @@ function AboutMePageAppBar() {
   );
 }
 
-export default AboutMePageAppBar;
+export default GeneralAppBar;

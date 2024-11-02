@@ -1,11 +1,12 @@
-import AboutMePageAppBar from "../components/aboutMePage/aboutMePageAppBar";
-import AboutMePageDrawer from "../components/aboutMePage/aboutMePageDrawer";
+import GeneralPage from "./totalGeneralPage";
+import AboutMePageData from "../components/aboutMePage/aboutMePageData";
 
 function AboutMePage() {
+  const pageData = <AboutMePageData />;
+
   return (
     <>
-      <AboutMePageAppBar />
-      <AboutMePageDrawer />
+      <GeneralPage>{pageData}</GeneralPage>
     </>
   );
 }

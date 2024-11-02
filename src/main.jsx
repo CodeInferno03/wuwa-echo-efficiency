@@ -2,8 +2,16 @@ import { StrictMode } from "react";
 import * as ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
+
+// All Pages
 import RootPage from "./pages/rootPage";
 import AboutMePage from "./pages/aboutMePage";
+import ResumePage from "./pages/resumePage";
+import ClassesPage from "./pages/classesPage";
+import EducationPage from "./pages/educationPage";
+import SkillsPage from "./pages/skillsPage";
+import WorkExperiencePage from "./pages/workExperiencePage";
+import ProjectsPage from "./pages/projectsPage";
 
 const base_url = "/ishaan-singh-website";
 
@@ -14,31 +22,31 @@ const router = createBrowserRouter([
   },
   {
     path: `${base_url}/about-me`,
-    element: <AboutMePage />
+    element: <AboutMePage />,
   },
   {
     path: `${base_url}/classes`,
-    element: <div>Classes</div>,
+    element: <ClassesPage />,
   },
   {
     path: `${base_url}/education`,
-    element: <div>Education</div>,
+    element: <EducationPage />,
   },
   {
     path: `${base_url}/skills`,
-    element: <div>Skills</div>,
+    element: <SkillsPage />,
   },
   {
     path: `${base_url}/work-experience`,
-    element: <div>Work Experience</div>,
+    element: <WorkExperiencePage />,
   },
   {
     path: `${base_url}/projects`,
-    element: <div>Projects</div>
+    element: <ProjectsPage />,
   },
   {
     path: `${base_url}/resume`,
-    element: <div>Resume</div>
+    element: <ResumePage />,
   }
 ]);
 
