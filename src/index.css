@@ -1,3 +1,8 @@
 * {
-    font-family: Candara !important;
+    font-family: system-ui, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    /* color-scheme: light dark;
+    background-color: Canvas;
+    color: #fff; */
+    /* background-image: url("assets/dots-filler-background.jpg"); */
 }
+

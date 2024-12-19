@@ -1,0 +1,18 @@
+
+body {
+    background-image: url("../../assets/dots-filler-background.jpg");
+}
+
+.filler-text {
+    display: flex;
+    position: inherit;
+    justify-content: center;
+    bottom: 10%;
+    transform: translateY(90%);
+
+    color: #A273FE;
+    font-size: 3em;
+    font-weight: 700;
+    width: 100%;
+    height: 45%;
+}

@@ -1,0 +1,54 @@
+{
+  "atk": {
+    "max": 70,
+    "min": 30
+  },
+  "hp": {
+    "max": 580,
+    "min": 320
+  },
+  "def": {
+    "max": 70,
+    "min": 30
+  },
+  "atk_%": {
+    "max": 11.6,
+    "min": 6.4
+  },
+  "hp_%": {
+    "max": 11.6,
+    "min": 6.4
+  },
+  "def_%": {
+    "max": 14.7,
+    "min": 8.1
+  },
+  "energy_regen": {
+    "max": 14.9,
+    "min": 5.6
+  },
+  "crit_rate": {
+    "max": 10.5,
+    "min": 6.3
+  },
+  "crit_dmg": {
+    "max": 21,
+    "min": 12.6
+  },
+  "basic_attack_dmg_bonus": {
+    "max": 11.6,
+    "min": 6.4
+  },
+  "heavy_attack_dmg_bonus": {
+    "max": 11.6,
+    "min": 6.4
+  },
+  "resonance_skill_dmg_bonus": {
+    "max": 11.6,
+    "min": 6.4
+  },
+  "resonance_liberation_dmg_bonus": {
+    "max": 11.6,
+    "min": 6.4
+  }
+}
